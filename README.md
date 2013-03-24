@@ -13,7 +13,7 @@ Only the first two exercises are complete in this code base.
 
 Recommend that you install leiningen and run the tests by typing:
 
-{{lein test}}
+  lein test
 
 
 ## License
